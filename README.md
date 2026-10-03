@@ -32,7 +32,10 @@ Gate_level_modelling/
 └── README.md
 ```
 
-Author
+##Author
+
 Chhavi Verma
+
 B.Tech — Electronics & Communication Engineering
+
 Rajiv Gandhi Institute of Petroleum Technology (RGIPT)
